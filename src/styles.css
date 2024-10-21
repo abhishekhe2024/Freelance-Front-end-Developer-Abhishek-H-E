@@ -197,6 +197,9 @@ h2{
     color: #2F2F2F;
 }
 .footer{
+    max-width: 1100px;
+    margin: 0 auto;
+    border-radius: 10px;
     width: 100%;
     /* background-color: 	#C0C0C0; */
     background-color: 		#808080;
